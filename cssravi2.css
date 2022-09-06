@@ -1,0 +1,110 @@
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(camerabgpic.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.btn-success{
+    background-color: orange;
+}
+.btn-success:hover {
+    background-color: black; 
+}
+
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-linkedin {
+    border-radius: 15px;
+    background: #007bb5;
+    color: white;
+}
+.fa-linkedin:hover {
+    border-radius: 10px;
+    background: #01557b;
+    color: rgb(172, 255, 247);
+}
+
+
+.fa-github {
+    border-radius: 15px;
+    background: #545454;
+    color: white;
+}
+.fa-github:hover {
+    border-radius: 10px;
+    background: #858585;
+    color: rgb(255, 232, 232);
+}
+
+.fa-twitter {
+    border-radius: 15px;
+    background:rgb(53, 191, 255);
+    color:white;
+}
+.fa-twitter:hover {
+    border-radius: 10px;
+    background: #0180bb;
+    color: rgb(255, 253, 211);
+}
+
+.fa-instagram {
+    border-radius: 15px;
+    background:#ff00a6;
+    color:white;
+}
+.fa-instagram:hover {
+    border-radius: 10px;
+    background: #ae01ff;
+    color: rgb(255, 190, 223);
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin: 5px 15px;
+}
+
+h1, h3 {
+    color:antiquewhite;
+}
+.reinstagram{
+    color: purple;
+    background-color: rgb(248, 246, 101);
+}
+
+.reyoutube{
+    color:rgb(255, 255, 255);
+    background-color: red;
+}
+.name:hover {
+    color: rgb(248, 198, 133);
+    
+
+}
+.namebelow:hover {
+    color: rgb(248, 198, 133);
+    
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3px;
+    justify-content: center;
+    align-items: center;
+}
+* {
+    box-sizing: border-box;
+  }
+  
